@@ -1,5 +1,5 @@
 
-salary = float(input("Enter the employee's salary: "))
+salary = 10000
 bonus = 0.10 * salary
 
 # Calculate total salary
